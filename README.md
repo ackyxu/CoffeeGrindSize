@@ -1,3 +1,3 @@
 # CoffeeGrindSize
 
-[Part 1](JyupterNotebooks/Part 1.html)
+[Part 1](JyupterNotebooks/Part_1.html)
