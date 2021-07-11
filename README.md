@@ -1,3 +1,3 @@
 # CoffeeGrindSize
 
-[Part 1 Experimenting with OpenCV for Object Segmentation](Part 1 Experimenting with OpenCV for Object Segmentation.html)
+[Part 1 Experimenting with OpenCV for Object Segmentation](JyupterNotebooks/Part 1.html)
